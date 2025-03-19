@@ -2,6 +2,8 @@
 
 这是一个交互式网络分析应用，可用于分析各种实体间的关系，包括二分网络和共现网络。
 
+演示：(https://excel-network-analysis.streamlit.app/)[https://excel-network-analysis.streamlit.app/]
+
 ## 功能特点
 
 - **多种分析模式**：支持二分网络分析和共现网络分析
